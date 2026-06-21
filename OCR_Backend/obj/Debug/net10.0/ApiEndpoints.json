@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "OCR_Backend.Controllers.OcrController",
+    "Method": "Read",
+    "RelativePath": "api/ocr/read",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

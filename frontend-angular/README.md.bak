@@ -1,0 +1,8 @@
+# Angular Frontend
+
+Run:
+npm install
+ng serve
+
+Create an upload component that calls:
+POST http://localhost:5000/api/ocr/read
